@@ -11,6 +11,7 @@ if sys.version_info.major == 2:
 else:
     from urllib.request import urlopen
 
+# Will change this once I get a valid mangnumdb key
 key = 'f344dc86-7796-499f-be38-ec39a5414289'
 
 r2 = r2pipe.open()

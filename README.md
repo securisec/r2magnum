@@ -1,3 +1,5 @@
+[![Twitter Follow](https://img.shields.io/twitter/follow/securisec.svg?style=social&label=Follow)]()
+
 # r2magnum
 
 `r2mangum` is a Radare2 plugin for [magnumdb](https://magnumdb.com/)
