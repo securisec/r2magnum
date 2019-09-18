@@ -2,7 +2,7 @@
 
 `r2mangum` is a Radare2 plugin for [magnumdb](https://magnumdb.com/)
 
-This plugin is inspired by a similar project for IDA [idamagnum(https://github.com/lucasg/idamagnum)
+This plugin is inspired by a similar project for IDA [idamagnum](https://github.com/lucasg/idamagnum)
 
 ## Usage
 Seek to the offset of interest, and then invoke the script with 
