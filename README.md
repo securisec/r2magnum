@@ -9,7 +9,7 @@ This plugin is inspired by a similar project for IDA [idamagnum](https://github.
 ## Usage
 Seek to the offset of interest, and then invoke the script with 
 ```
-#!pipe python ./r2mangum.py
+#!pipe python ./r2magnum.py
 ```
 
 [![asciicast](https://asciinema.org/a/269490.png)](https://asciinema.org/a/269490)
