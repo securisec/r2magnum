@@ -11,8 +11,7 @@ if sys.version_info.major == 2:
 else:
     from urllib.request import urlopen
 
-# Will change this once I get a valid mangnumdb key
-key = 'f344dc86-7796-499f-be38-ec39a5414289'
+key = 'e562cbe0-1acc-4419-9a87-5f8219fc9ff7'
 
 r2 = r2pipe.open()
 get_current_dis = r2.cmdj('pdj 1')[0]
