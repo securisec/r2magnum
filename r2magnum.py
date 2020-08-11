@@ -11,6 +11,7 @@ if sys.version_info.major == 2:
 else:
     from urllib.request import urlopen
 
+# OKed by magnumdb to disclose openly
 key = 'e562cbe0-1acc-4419-9a87-5f8219fc9ff7'
 
 r2 = r2pipe.open()
