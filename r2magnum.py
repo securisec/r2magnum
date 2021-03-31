@@ -12,7 +12,7 @@ else:
     from urllib.request import urlopen
 
 # OKed by magnumdb to disclose openly
-key = 'e562cbe0-1acc-4419-9a87-5f8219fc9ff7'
+key = 'e562cbe0-1acc-4419-9a87-5f8219fc9ff7' # api key included after obtaining permission from maintainer of magnumdb
 
 r2 = r2pipe.open()
 get_current_dis = r2.cmdj('pdj 1')[0]
